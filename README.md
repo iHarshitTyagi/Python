@@ -1,2 +1,3 @@
-# Django
-Django Material
+Python Related resources.
+
+Can have KPIs and Learning material
